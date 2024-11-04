@@ -1,4 +1,4 @@
-/*Header*/
+/*Header (изменено для автотеста)*/
 .header {
   padding: 91px 51px 92px 50px;
   display: grid;
@@ -235,7 +235,7 @@
   text-decoration: none;
   border-bottom: 1px solid #000;
 }
-/*About*/
+/*about*/
 .about {
   margin: 0 24px 180px;
   color: #000;
