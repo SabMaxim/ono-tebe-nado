@@ -3,7 +3,7 @@
   padding: 91px 51px 92px 50px;
   display: grid;
   grid-template-columns: 1fr 136px 1fr;
-  align-items: center;  
+  align-items: center;
 }
 
 .header__menu {
