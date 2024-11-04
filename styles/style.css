@@ -332,11 +332,6 @@
   align-self: center;
 }
 
-.footer__menu-link {
-  text-decoration-thickness: 1px;
-  text-underline-offset: 4px;
-}
-
 .footer__menu-link_active {
   text-decoration: none;
 }
