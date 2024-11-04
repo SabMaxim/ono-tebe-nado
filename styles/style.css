@@ -1,6 +1,6 @@
-/*Header (изменено для автотеста)*/
+/*Header*/
 .header {
-  padding: 91px 51px 92px 50px;
+  padding: 93px 51px 92px 50px;
   display: grid;
   grid-template-columns: 1fr 136px 1fr;
   align-items: center;
@@ -45,10 +45,6 @@
   object-fit: contain;
 }
 
-.header__address {
-  justify-self: end;
-}
-
 .address {
   max-width: 236.7px;
   font-style: normal;
@@ -58,10 +54,14 @@
   line-height: 24.5px;
 }
 
+.header__address {
+  justify-self: end;
+}
+
 .address__link {
   letter-spacing: 0.01em;
   text-decoration-thickness: 1px;
-  text-underline-offset: 4px;;
+  text-underline-offset: 4px;
 }
 /*Cover*/
 .cover {
@@ -75,7 +75,7 @@
   padding: 162px 50px 51px;
   display: flex;
   flex-direction: column;
-  gap: 136px;
+  gap: 132px;
 }
 
 .cover__title {
@@ -89,7 +89,7 @@
 
 .aligned-text {
   text-align: left;
-  line-height: 115px;
+  line-height: 119px;
 }
 
 .aligned-text_center {
